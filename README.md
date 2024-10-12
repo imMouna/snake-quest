@@ -20,6 +20,6 @@
   </ol>
   <li>The game ends if the snake collides with itself or walls</li>
 
-  <img src="images/sn-1.png" alt="image1">
-  <img src="images/sn-2.png" alt="image2">
+  <img src="images/sn-1.png" align="center" alt="snake1" width="400">
+  <img src="images/sn-2.png" align="right" alt="snake2" width="400">
 </ol>
